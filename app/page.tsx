@@ -1,5 +1,5 @@
-import Component from "../star-rail-calculator"
+import GameSelector from "../game-selector"
 
 export default function Page() {
-  return <Component />
+  return <GameSelector />
 }
