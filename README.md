@@ -7,7 +7,7 @@ This repository contains a gacha calculator web app. Any changes you make to you
 
 Your project is live at:
 
-**[https://vercel.com/awabbs-projects/v0-recreate-ui-from-screenshot-pv](https://vercel.com/awabbs-projects/v0-recreate-ui-from-screenshot-pv)**
+**[gacha-planner.vercel.app]**
 
 ## Build your app
 
