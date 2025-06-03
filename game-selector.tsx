@@ -30,7 +30,7 @@ const games = [
     name: "Zenless Zone Zero",
     logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/51296d07ef153ca7dd744dc31874d548_4734072724131588175-1318834376-UDiqHXb7EentlHNfAUQ3JrPfIxWJA1.png",
     bgImage:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Zenless-Zone-Zero-Season-2-2000x1125-249983374.jpg-lMlO8YJQrr1YxCTGfsvsbluS8INv9G.jpeg",
+      "",
     available: false,
     hoverEffect: "glitch-intense", // Enhanced glitch effect
   },
